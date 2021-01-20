@@ -1,0 +1,122 @@
+body{
+background:white;
+font-family: 'Prompt', sans-serif;
+background:black;
+}
+
+.navbar-brand{
+    color:#91949c !important;
+    font-size:2rem;
+    letter-spacing: .5rem;
+}
+.nav-link {
+    color:#91949c !important;
+    font-weight:100;
+    font-size:1.5rem;
+
+}
+.nav-link:hover {
+    color:#225ed6 !important;
+    
+
+}
+#yellow{
+    color:#f2c729;
+    font-weight:100;
+    font-size:1.5rem;
+    letter-spacing:0.2rem;
+}
+
+#red{
+    color:#e8240e;
+    font-weight:100;
+    font-size:1.5rem;
+    letter-spacing:0.2rem;
+}
+#green{
+    color:#328720;
+    font-weight:100;
+    font-size:1.5rem;
+    letter-spacing:0.2rem;
+   
+}
+#green-shoe{
+
+margin-top:-20px;
+}
+#featured{
+    color:white;
+    font-size: 2rem;
+}
+
+
+#blue{
+    color:#225ed6;
+    font-weight:100;
+    font-size:1.5rem;
+    letter-spacing:0.2rem;
+
+}
+#white{
+    color:white;
+    font-weight:100;
+    font-size:1.5rem;
+    letter-spacing:0.2rem;
+}
+#red-hr{
+    background-color:#e8240e;
+}
+
+#yellow-hr{
+    background-color:#f2c729;
+}
+#green-hr{
+    background-color:#328720;
+}
+.blurb p{
+    color:white;
+    font-weight:100;
+    font-size:1rem;
+    line-height:2;
+    font-family: 'Raleway', sans-serif;
+
+}
+
+button.navbar-toggler{
+    background-color:#91949c;
+    color:#225ed6;
+}
+ span{
+    color:#225ed6;
+}
+.gallery{
+    color:white;
+}
+#sneaker-logo{
+    width:4rem;
+    height:4rem;
+}
+.content{
+    margin-top:100px;
+   
+}
+.footer{
+    border-top: 0.25px solid #91949c;
+    padding-top:100px;
+}
+
+#logo{
+    margin-left:10px;
+}
+.navbar.scrolled{
+    background:black;
+    transition:background 500ms;
+}
+
+@media(max-width:1400px){
+    #headingGroup h1{
+       
+        font-size:3rem;
+    
+    }
+}
